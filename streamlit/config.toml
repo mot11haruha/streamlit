@@ -1,0 +1,15 @@
+[theme]
+# ボタンやフォーカス時のメインアクセントカラー
+primaryColor = "#3498db"
+
+# メイン画面全体の背景色
+backgroundColor = "#ffffff"
+
+# サイドバーやカード要素の背景色
+secondaryBackgroundColor = "#f0f2f6"
+
+# 基本の文字色
+textColor = "#31333F"
+
+# フォント ("sans serif", "serif", "monospace" から選択)
+font = "sans serif"
